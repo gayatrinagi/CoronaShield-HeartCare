@@ -15,6 +15,7 @@ COVID-19 has been linked with lasting cardiovascular complications for some pati
 
 By entering basic health information and COVID vaccination details, users receive a risk score indicating their likelihood of post-COVID heart issues, alongside recommended insurance tiers tailored to their risk profile.
 
+Deployed at: https://coronashield-heartcare.streamlit.app/
 ---
 
 ## Features
